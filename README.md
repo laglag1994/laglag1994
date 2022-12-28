@@ -3,7 +3,7 @@
   </div>
 <br>
 
-|![](https://github-readme-stats.vercel.app/api?username=laglag1994&&show_icons=true&title_color=d87093&icon_color=bb2acf&text_color=daf7dc&bg_color=#C1282F)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=laglag1994&layout=compact&theme=tokyonight&langs_count=10&hide=lua)|
+|![](https://github-readme-stats.vercel.app/api?username=laglag1994&&show_icons=true&title_color=d87093&icon_color=bb2acf&text_color=daf7dc&bg_color=#151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=laglag1994&layout=compact&theme=tokyonight&langs_count=10&hide=lua)|
 |-|-|
 
 
