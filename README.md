@@ -1,13 +1,13 @@
   <div align="center">
-<img src="https://streak-stats.demolab.com?user=laglag1994&theme=submarine-flowers" />
+<img src="https://streak-stats.demolab.com?user=laglag1994&theme=omni" />
   </div>
 <br>
 
-|![](https://github-readme-stats.vercel.app/api?username=laglag1994&&show_icons=true&title_color=fff&icon_color=fff&text_color=daf7dc&bg_color=30,e96443,904e95)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=laglag1994&layout=compact&theme=dracula)|
+|![](https://github-readme-stats.vercel.app/api?username=laglag1994&&show_icons=true&theme=omni)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=laglag1994&layout=compact&theme=omni)|
 |-|-|
 
 
-![](https://activity-graph.herokuapp.com/graph?username=laglag1994&theme=redical)
+![](https://activity-graph.herokuapp.com/graph?username=laglag1994&theme=omni)
 
 
 
