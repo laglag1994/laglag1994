@@ -3,11 +3,6 @@
   </div>
 <br>
 
-|![](https://github-readme-stats.vercel.app/api?username=laglag1994&&show_icons=true&theme=omni)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=laglag1994&layout=compact&theme=omni)|
-|-|-|
-
-
-![](https://activity-graph.herokuapp.com/graph?username=laglag1994&theme=omni)
 
 
 
